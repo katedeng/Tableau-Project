@@ -11,3 +11,5 @@ Your manager has asked you to create a map showing Sellers in their geolocations
 The dashboard:
 ![image](https://github.com/katedeng/Tableau-Project/assets/115319734/346dd370-95c9-4092-a5d7-ed2ebc299fb9)
 
+
+
