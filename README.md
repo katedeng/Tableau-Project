@@ -14,6 +14,7 @@ The dashboard:
 
 
 section 8 challenge
+
 You are a Data Scientist working for a laundry-pickup services startup WeWashUSleep. This is a relatively small company and they cannot compete with the big players in major cities. The company's strategy is to build a vast network in the smaller cities.
 
 WeWashUSleep already had a strong presence in 140 locations and recently opened in 10 new cities. Additionally, the company has two separate sales regions.
